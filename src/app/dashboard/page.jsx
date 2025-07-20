@@ -1,4 +1,3 @@
-// app/dashboard/page.jsx
 "use client";
 
 import { FaBoxes, FaTruck, FaChartBar, FaUserCog, FaSignOutAlt } from "react-icons/fa";

@@ -1,4 +1,3 @@
-// app/page.jsx
 import Image from "next/image";
 import { FaBarcode, FaWarehouse, FaChartLine, FaMobileAlt, FaShieldAlt, FaUsers, FaSignInAlt, FaFilter, FaCheckCircle, FaHistory } from 'react-icons/fa';
 import { FiArrowDown, FiArrowRight } from 'react-icons/fi';
